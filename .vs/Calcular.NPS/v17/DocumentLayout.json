@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|c:\\users\\user\\desktop\\nps\\calcular.nps\\calcular.nps\\controllers\\npscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|solutionrelative:calcular.nps\\controllers\\npscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|c:\\users\\user\\desktop\\nps\\calcular.nps\\calcular.nps\\datos\\dcalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|solutionrelative:calcular.nps\\datos\\dcalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|c:\\users\\user\\desktop\\nps\\calcular.nps\\calcular.nps\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|solutionrelative:calcular.nps\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|c:\\users\\user\\desktop\\nps\\calcular.nps\\calcular.nps\\modelo\\musuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|solutionrelative:calcular.nps\\modelo\\musuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|c:\\users\\user\\desktop\\nps\\calcular.nps\\calcular.nps\\datos\\dusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|solutionrelative:calcular.nps\\datos\\dusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|c:\\users\\user\\desktop\\nps\\calcular.nps\\calcular.nps\\datos\\dresultadosnps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|solutionrelative:calcular.nps\\datos\\dresultadosnps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|c:\\users\\user\\desktop\\nps\\calcular.nps\\calcular.nps\\modelo\\mresultadosnps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|solutionrelative:calcular.nps\\modelo\\mresultadosnps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|c:\\users\\user\\desktop\\nps\\calcular.nps\\calcular.nps\\conexion\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CC30C6-496C-4252-8099-ED1625D7A890}|Calcular.NPS\\Calcular.NPS.csproj|solutionrelative:calcular.nps\\conexion\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DCalificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Datos\\DCalificaciones.cs",
+              "RelativeDocumentMoniker": "Calcular.NPS\\Datos\\DCalificaciones.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Datos\\DCalificaciones.cs",
+              "RelativeToolTip": "Calcular.NPS\\Datos\\DCalificaciones.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAArwDwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:49:12.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MResultadosNPS.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Modelo\\MResultadosNPS.cs",
+              "RelativeDocumentMoniker": "Calcular.NPS\\Modelo\\MResultadosNPS.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Modelo\\MResultadosNPS.cs",
+              "RelativeToolTip": "Calcular.NPS\\Modelo\\MResultadosNPS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:46:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Calcular.NPS\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Calcular.NPS\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:34:11.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Modelo\\MUsuarios.cs",
+              "RelativeDocumentMoniker": "Calcular.NPS\\Modelo\\MUsuarios.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Modelo\\MUsuarios.cs",
+              "RelativeToolTip": "Calcular.NPS\\Modelo\\MUsuarios.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:31:00.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Datos\\DUsuarios.cs",
+              "RelativeDocumentMoniker": "Calcular.NPS\\Datos\\DUsuarios.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Datos\\DUsuarios.cs",
+              "RelativeToolTip": "Calcular.NPS\\Datos\\DUsuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:36:43.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Conexion\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "Calcular.NPS\\Conexion\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Conexion\\ConexionBD.cs",
+              "RelativeToolTip": "Calcular.NPS\\Conexion\\ConexionBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:17:25.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NPSController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Controllers\\NPSController.cs",
+              "RelativeDocumentMoniker": "Calcular.NPS\\Controllers\\NPSController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Controllers\\NPSController.cs",
+              "RelativeToolTip": "Calcular.NPS\\Controllers\\NPSController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIA9wCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:54:28.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DResultadosNPS.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Datos\\DResultadosNPS.cs",
+              "RelativeDocumentMoniker": "Calcular.NPS\\Datos\\DResultadosNPS.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NPS\\Calcular.NPS\\Calcular.NPS\\Datos\\DResultadosNPS.cs",
+              "RelativeToolTip": "Calcular.NPS\\Datos\\DResultadosNPS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:52:03.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

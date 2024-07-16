@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\NPS\Calcular.NPS\Calcular.NPS\obj\Release\net6.0\PubTmp\Out\Calcular.NPS.exe
+C:\Users\USER\Desktop\NPS\Calcular.NPS\Calcular.NPS\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\USER\Desktop\NPS\Calcular.NPS\Calcular.NPS\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\USER\Desktop\NPS\Calcular.NPS\Calcular.NPS\obj\Release\net6.0\PubTmp\Out\Calcular.NPS.dll
+C:\Users\USER\Desktop\NPS\Calcular.NPS\Calcular.NPS\obj\Release\net6.0\PubTmp\Out\Calcular.NPS.deps.json
+C:\Users\USER\Desktop\NPS\Calcular.NPS\Calcular.NPS\obj\Release\net6.0\PubTmp\Out\Calcular.NPS.runtimeconfig.json
+C:\Users\USER\Desktop\NPS\Calcular.NPS\Calcular.NPS\obj\Release\net6.0\PubTmp\Out\Calcular.NPS.pdb
+C:\Users\USER\Desktop\NPS\Calcular.NPS\Calcular.NPS\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\NPS\Calcular.NPS\Calcular.NPS\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\NPS\Calcular.NPS\Calcular.NPS\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\NPS\Calcular.NPS\Calcular.NPS\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
